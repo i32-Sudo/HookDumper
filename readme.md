@@ -14,3 +14,6 @@ I will add more security features in the future to prevent detection.
 
 # Project
 This is just a Pre-Dump Project that I'll develop on and re-release under a new repo with better features and more hooks related to file dumping and etc.
+
+# Contact
+If you want to hire a dev for your projects contact me over discord : leur556 - Bypasses for BE & EAC with full UM Clients + ImGui & API's

@@ -1,0 +1,9 @@
+﻿  test.cpp
+C:\Users\dnfki\source\repos\EzDump\test\test.cpp(19,9): error C2664: 'BOOL DeleteFileW(LPCWSTR)': cannot convert argument 1 from 'const char [14]' to 'LPCWSTR'
+  C:\Users\dnfki\source\repos\EzDump\test\test.cpp(19,20):
+  Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or parenthesized function-style cast
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\fileapi.h(142,1):
+  see declaration of 'DeleteFileW'
+  C:\Users\dnfki\source\repos\EzDump\test\test.cpp(19,9):
+  while trying to match the argument list '(const char [14])'
+  

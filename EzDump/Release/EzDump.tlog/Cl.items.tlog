@@ -1,0 +1,6 @@
+C:\Users\dnfki\source\repos\EzDump\dllmain.cpp;C:\Users\dnfki\source\repos\EzDump\EzDump\Release\dllmain.obj
+C:\Users\dnfki\source\repos\EzDump\externals\minhook\src\buffer.c;C:\Users\dnfki\source\repos\EzDump\EzDump\Release\buffer.obj
+C:\Users\dnfki\source\repos\EzDump\externals\minhook\src\hde\hde32.c;C:\Users\dnfki\source\repos\EzDump\EzDump\Release\hde32.obj
+C:\Users\dnfki\source\repos\EzDump\externals\minhook\src\hde\hde64.c;C:\Users\dnfki\source\repos\EzDump\EzDump\Release\hde64.obj
+C:\Users\dnfki\source\repos\EzDump\externals\minhook\src\hook.c;C:\Users\dnfki\source\repos\EzDump\EzDump\Release\hook.obj
+C:\Users\dnfki\source\repos\EzDump\externals\minhook\src\trampoline.c;C:\Users\dnfki\source\repos\EzDump\EzDump\Release\trampoline.obj
